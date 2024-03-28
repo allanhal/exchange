@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "grenache-grape": "^0.9.12",
+    "grenache-nodejs-link": "^1.0.0",
+    "grenache-nodejs-ws": "^0.7.10"
+  }
+}
